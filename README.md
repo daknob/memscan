@@ -29,3 +29,15 @@ e.g:
 6. Inject your library into the process as you normally would:
 
 		DYLD_INSERT_LIBRARIES=/Library/MobileSubstrate/DynamicLibraries/<libName>.dylib ./<binary>
+
+##Notes
+This is a fork from the original repository at https://reconditorium.uk/Hexploitable/memscan . It has been edited to fit another purpose but has not been rebranded.
+
+<p xmlns:dct="http://purl.org/dc/terms/">
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="http://i.creativecommons.org/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+	 </a>
+	 <br />
+	 This work (<span property="dct:title">memscan</span>, by <a href="https://hexplo.it/" rel="dct:creator"><span property="dct:title">Grant Douglas</span></a>) is free of known copyright restrictions.
+	 </p>
