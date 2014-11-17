@@ -31,7 +31,11 @@ e.g:
 		DYLD_INSERT_LIBRARIES=/Library/MobileSubstrate/DynamicLibraries/<libName>.dylib ./<binary>
 
 ##Notes
-This is a fork from the original repository at https://reconditorium.uk/Hexploitable/memscan . It has been edited to fit another purpose but has not been rebranded.
+This is a fork from the original repository at 
+https://reconditorium.uk/Hexploitable/memscan .
+It has been edited to fit another purpose but 
+has not been rebranded. After contacting the author
+the Public Domain License has been applied.
 
 <p xmlns:dct="http://purl.org/dc/terms/">
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
